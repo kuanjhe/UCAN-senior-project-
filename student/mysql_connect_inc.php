@@ -3,11 +3,11 @@
 //資料庫位置
 $db_server = "120.113.174.17";
 //資料庫名稱
-$db_name = "s1042653b";
+$db_name = "";
 //資料庫管理者帳號
-$db_user = "s1042653";
+$db_user = "";
 //資料庫管理者密碼
-$db_passwd = "aFoHat4XzsZkf8WI";
+$db_passwd = "";
 
 $con= mysqli_connect($db_server, $db_user, $db_passwd);
 //對資料庫連線
