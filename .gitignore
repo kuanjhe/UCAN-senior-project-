@@ -1,0 +1,3 @@
+# 忽略MySQL連線檔案
+mysql_connect_inc.php
+stduent/mysql_connect_inc.php
